@@ -107,6 +107,10 @@ if DREAMBOX
 SUBDIRS +=  fancontrol2 letterbox logomanager movielistpreview genuinedreambox
 endif
 
+if OpenFIX
+SUBDIRS +=  networkbrowserpli
+endif
+
 if VUSOLO2
 SUBDIRS +=  fancontrol2
 endif
