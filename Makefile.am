@@ -107,19 +107,6 @@ if DREAMBOX
 SUBDIRS +=  fancontrol2 letterbox logomanager movielistpreview genuinedreambox
 endif
 
-if SF8008
-SUBDIRS +=  networkbrowserpli
-endif
-if VIPER4K
-SUBDIRS +=  networkbrowserpli
-endif
-if MULTIBOX
-SUBDIRS +=  networkbrowserpli
-endif
-if USTYM4KPRO
-SUBDIRS +=  networkbrowserpli
-endif
-
 if VUSOLO2
 SUBDIRS +=  fancontrol2
 endif
@@ -145,12 +132,6 @@ SUBDIRS += \
 	menusort \
 	pluginhider \
 	pluginsort 
-endif
-
-if PLI
-SUBDIRS += networkbrowserpli epgsearchpli
-else
-SUBDIRS += networkbrowser epgsearch
 endif
 
 metadir = $(datadir)/meta
