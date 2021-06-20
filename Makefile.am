@@ -134,6 +134,12 @@ SUBDIRS += \
 	pluginsort 
 endif
 
+if PLI
+SUBDIRS += networkbrowserpli epgsearchpli
+else
+SUBDIRS += networkbrowser epgsearch
+endif
+
 metadir = $(datadir)/meta
 meta_DATA = index-enigma2-plugins.xml
 CLEANFILES = index-enigma2-plugins.xml
