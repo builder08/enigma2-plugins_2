@@ -544,13 +544,6 @@ networkbrowser/src/icons/Makefile
 networkbrowser/src/lib/Makefile
 networkbrowser/po/Makefile
 
-networkbrowserpli/Makefile
-networkbrowserpli/meta/Makefile
-networkbrowserpli/src/Makefile
-networkbrowserpli/src/icons/Makefile
-networkbrowserpli/src/lib/Makefile
-networkbrowserpli/po/Makefile
-
 ofdb/Makefile
 ofdb/meta/Makefile
 ofdb/po/Makefile
