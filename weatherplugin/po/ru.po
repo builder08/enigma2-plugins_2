@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WeatherPlugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-12 19:02+0100\n"
+"PO-Revision-Date: 2020-06-12 19:06+0100\n"
+"Last-Translator: BlackFish <blackfish.3654@gmail.com>\n"
+"Language-Team: BlackFish <blackfish.3654@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../src\n"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "City"
+msgstr "Город"
+
+msgid "Current: %s"
+msgstr "Текущий: %s"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Feels like %s"
+msgstr "Чувствуется как %s"
+
+msgid "Getting weather information..."
+msgstr "Получение информации о погоде..."
+
+msgid "Humidity: %s %%"
+msgstr "Влажность: %s %%"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Location code"
+msgstr "Код местоположения"
+
+msgid "MSN location search result"
+msgstr "Результаты поиска местоположения MSN"
+
+msgid ""
+"No locations defined...\n"
+"Press 'Menu' to do that."
+msgstr ""
+"Места не определены.\n"
+"Пожалуйста, нажмите «Меню», чтобы создать запись."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Observation point: %s"
+msgstr "Точка наблюдения: %s"
+
+msgid "Observation time: %s"
+msgstr "Время наблюдения: %s"
+
+msgid "Please enter a valid city name."
+msgstr "Пожалуйста, введите правильное название города."
+
+msgid "Please enter a valid location code for the city."
+msgstr "Пожалуйста, введите правильный код города."
+
+msgid "Really delete this WeatherPlugin Entry?"
+msgstr "Действительно удалить эту запись WeatherPlugin?"
+
+msgid "Search Code"
+msgstr "Поиск кода"
+
+msgid "Show Weather Forecast"
+msgstr "Показать прогноз погоды"
+
+msgid "System"
+msgstr "Система"
+
+msgid "Weather Plugin"
+msgstr "Weather Plugin"
+
+msgid "WeatherPlugin: Edit Entry"
+msgstr "Weather Plugin: Изменить запись"
+
+msgid "WeatherPlugin: List of Entries"
+msgstr "Weather Plugin: список записей"
+
+msgid ""
+"You need to enter a valid city name before you can search for the location "
+"code."
+msgstr ""
+"Вам нужно ввести правильное название города, прежде чем вы сможете искать код местоположение."
+
+msgid "imperial system"
+msgstr "Имперская система"
+
+msgid "metric system"
+msgstr "Метрическая система"
